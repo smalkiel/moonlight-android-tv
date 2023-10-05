@@ -6,7 +6,7 @@
 [Moonlight for Android TV ](https://moonlight-stream.org) is an open source client for NVIDIA GameStream and [Sunshine](https://github.com/LizardByte/Sunshine).
 
 Moonlight for Android TV will allow you to stream your full collection of games from your Windows PC to your Android TV device, like MiBox.
-whether in your own home or over the internet.
+whether in your own home or over your freinds living room. playing live on 85" Android TV screen.
 
 Supported by Https://Gameflix.TV dev team.
 ## Downloads
